@@ -1,4 +1,4 @@
-# **Messenger** - *Swift implementation*
+# **Messenger** - *Using Swift*
 
 This application tries to mimic UI of Facebook's chat application called Messenger. This project uses *Core Data* to persist data across reboots. This application  is mainly to demo following things:
 
